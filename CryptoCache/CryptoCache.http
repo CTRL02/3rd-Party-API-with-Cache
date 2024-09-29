@@ -1,0 +1,6 @@
+@CryptoCache_HostAddress = http://localhost:5041
+
+GET {{CryptoCache_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
