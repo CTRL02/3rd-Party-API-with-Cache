@@ -25,10 +25,11 @@ In this project, Redis is used as a **cache** to store the API responses. The da
 The following images demonstrate the performance difference when the API is called without caching and with caching.
 
 ### Without Cache:
-![Without Cache](![image](https://github.com/user-attachments/assets/4d6d582c-debe-43d7-8fd7-20210cc7112b))
+![Without Cache](https://github.com/user-attachments/assets/4d6d582c-debe-43d7-8fd7-20210cc7112b)
 
 ### With Cache:
-![With Cache](![image](https://github.com/user-attachments/assets/104d0766-0dad-4f97-b663-98006efba516))
+![With Cache](https://github.com/user-attachments/assets/104d0766-0dad-4f97-b663-98006efba516)
+
 
 As shown, when the API is called without using cache, the response time is slower because it involves fetching data from the third-party API. In contrast, with caching enabled, the response time is significantly reduced, as the data is retrieved directly from Redis.
 
