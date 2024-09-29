@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoCache", "CryptoCache\CryptoCache.csproj", "{2256969F-A7A0-44FE-9299-E660EE7C0210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2256969F-A7A0-44FE-9299-E660EE7C0210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2256969F-A7A0-44FE-9299-E660EE7C0210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2256969F-A7A0-44FE-9299-E660EE7C0210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2256969F-A7A0-44FE-9299-E660EE7C0210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7013D51E-B990-4736-9E54-312008B02116}
+	EndGlobalSection
+EndGlobal
